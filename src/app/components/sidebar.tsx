@@ -11,6 +11,7 @@ import { FaRegCircleDown } from "react-icons/fa6";
 export function Sidebar() {
   return (
 		
+		
     <div className="h-screen flex flex-col items-center p-3 bg-[#E8AC04]">
 			{/*image */}
 			
